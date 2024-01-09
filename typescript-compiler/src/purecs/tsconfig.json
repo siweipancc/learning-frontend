@@ -1,0 +1,15 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "pretty": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "incremental": true,
+    "target": "ES2022",
+    "newLine": "lf",
+    "moduleResolution": "NodeNext",
+    // Required
+    "module": "NodeNext",
+  }
+}

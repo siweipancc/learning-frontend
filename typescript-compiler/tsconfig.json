@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "customConditions": [
+      "module"
+    ],
+    "alwaysStrict": true,
+    "pretty": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "incremental": true,
+    "watch": true,
+    "target": "ES2022",
+    "newLine": "lf",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext"
+  }
+}
