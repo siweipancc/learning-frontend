@@ -4,8 +4,7 @@
 
 ### ECMAScript(ESM)
 
-自 [v12](https://262.ecma-international.org/12.0/) 起在现代浏览器和 Node.js 中受支持, 使用专用的 **import** 和 **export
-** 语法
+自 [v12](https://262.ecma-international.org/12.0/) 起在现代浏览器和 Node.js 中受支持, 使用专用的 **import** 和 **export** 语法
 
 ```javascript
 // es/a.js
