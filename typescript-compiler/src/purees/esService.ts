@@ -1,5 +1,5 @@
 import {csWriteLine} from "../purecs/csUtils.js";
-import {esWriteLine} from "./esUtils.js";
+import {esWriteLine} from "./esUtils";
 
 
 csWriteLine("csWriteLine from es");
