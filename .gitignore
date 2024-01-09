@@ -4,3 +4,4 @@
 node_modules
 typescript-compiler/src/**/**.js
 typescript-compiler/src/**/**.map
+typescript-compiler/src/**/**.tsbuildinfo
