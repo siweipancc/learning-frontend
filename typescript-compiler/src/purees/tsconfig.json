@@ -10,12 +10,9 @@
     "target": "ES2022",
     "newLine": "lf",
 
-    "customConditions": [
-      "module"
-    ],
     // Required
     "module": "esnext",
-    "moduleResolution": "Bundler",
+    "moduleResolution": "Node10",
     "esModuleInterop": true,
     // Recommended
     "noEmit": true,
